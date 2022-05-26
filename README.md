@@ -1,6 +1,14 @@
 # fresher-coding-interview
 This repo is dedicated to most asked problems in coding interviews for freshers.
 
+## Instructions
+1. Please read the problem statement throughly.
+2. Try to solve it by your own.
+3. If you want some help then check diy-java repository first.
+4. If still unable to solve the problem then you may check solutions-java repository.
+5. We shall share Javascript and Python code also in the same way.
+
+
 ## Problem 1
 Write a program to accept one integer. Then print every digit of that integer in a newline and start from one's place.
 ```
