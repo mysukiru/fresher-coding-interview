@@ -37,6 +37,7 @@ Wriet a program to accept one integer. Then check if that integer is a palindrom
 
 // Sample input - 123321
 // Output - A palindrome
+```
 
 ## Problem 4
 Wriet a program to accept one integer. Then print first and last digits of the number.
@@ -46,3 +47,4 @@ Wriet a program to accept one integer. Then print first and last digits of the n
 
 // Sample input - 9
 // Output - 9 9
+```
