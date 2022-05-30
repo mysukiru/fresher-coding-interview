@@ -76,3 +76,39 @@ Write a program to accept one integer, N. Then print a square matrix of N *s.
 // * * * * *
 // * * * * *
 ```
+
+## Problem 7
+Write a program to accept one integer, N. Then print a Triangle as shown in output.
+```
+// Sample input - 3
+// Output
+// *  
+// * * 
+// * * *
+
+// Sample input - 5
+// Output
+// * 
+// * * 
+// * * * 
+// * * * * 
+// * * * * *
+```
+
+## Problem 8
+Write a program to accept one integer, N. Then print a Triangle as shown in output.
+```
+// Sample input - 3
+// Output
+// * * *  
+// * * 
+// * 
+
+// Sample input - 5
+// Output
+// * * * * *
+// * * * *
+// * * * 
+// * *  
+// * 
+```
