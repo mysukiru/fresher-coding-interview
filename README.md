@@ -48,3 +48,13 @@ Write a program to accept one integer. Then print first and last digits of the n
 // Sample input - 9
 // Output - 9 9
 ```
+
+## Problem 5
+Write a program to accept one integer, N. Then print "YES" if N is prime and print "NO" if N is not a prime number.
+```
+// Sample input - 21
+// Output - NO
+
+// Sample input - 7
+// Output - YES
+```
