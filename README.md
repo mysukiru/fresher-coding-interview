@@ -58,3 +58,21 @@ Write a program to accept one integer, N. Then print "YES" if N is prime and pri
 // Sample input - 7
 // Output - YES
 ```
+
+## Problem 6
+Write a program to accept one integer, N. Then print a square matrix of N *s.
+```
+// Sample input - 3
+// Output
+// * * * 
+// * * *
+// * * *
+
+// Sample input - 5
+// Output
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
+```
