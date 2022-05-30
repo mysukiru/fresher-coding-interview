@@ -30,7 +30,7 @@ Write a program to accept one integer. Then reverse that integer by using while 
 ```
 
 ## Problem 3
-Wriet a program to accept one integer. Then check if that integer is a palindrome or not. Don't use String methods.
+Write a program to accept one integer. Then check if that integer is a palindrome or not. Don't use String methods.
 ```
 // Sample input - 1334
 // Output - Not a palindrome
@@ -40,7 +40,7 @@ Wriet a program to accept one integer. Then check if that integer is a palindrom
 ```
 
 ## Problem 4
-Wriet a program to accept one integer. Then print first and last digits of the number.
+Write a program to accept one integer. Then print first and last digits of the number.
 ```
 // Sample input - 1334
 // Output - 1 4
