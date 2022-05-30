@@ -112,3 +112,21 @@ Write a program to accept one integer, N. Then print a Triangle as shown in outp
 // * *  
 // * 
 ```
+
+## Problem 9
+Write a program to accept one integer, N. Then print the pattern as shown in output.
+```
+// Sample input - 3
+// Output
+// **  
+// *-* 
+// *--*
+
+// Sample input - 5
+// Output
+// **
+// *-*
+// *--*
+// *---*
+// *----*
+```
