@@ -130,3 +130,15 @@ Write a program to accept one integer, N. Then print the pattern as shown in out
 // *---*
 // *----*
 ```
+
+## Problem 9
+Write a program to accept one integer, N. Then print the pattern as shown in output.
+```
+// Sample input - 5
+// Output
+// ----* // four '-' 1 '*'   
+// ---**
+// --***
+// -****
+// ***** // 5 '*'
+```
