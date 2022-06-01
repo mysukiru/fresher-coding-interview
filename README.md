@@ -136,9 +136,9 @@ Write a program to accept one integer, N. Then print the pattern as shown in out
 ```
 // Sample input - 5
 // Output
-// ----* // four '-' 1 '*'   
+// ----* // four '-' & one '*'   
 // ---**
 // --***
 // -****
-// ***** // 5 '*'
+// ***** // five '*'
 ```
