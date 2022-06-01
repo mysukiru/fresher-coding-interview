@@ -142,3 +142,15 @@ Write a program to accept one integer, N. Then print the pattern as shown in out
 // -****
 // ***** // five '*'
 ```
+
+## Problem 11
+Write a program to accept one integer, N. Then print the pattern as shown in output.
+```
+// Sample input - 6
+************ // 12 '*'
+*****  ***** // 5 '*' & 2 'spaces' &  5 '*'
+****    ****
+***      ***
+**        **
+*          *
+```
