@@ -154,3 +154,16 @@ Write a program to accept one integer, N. Then print the pattern as shown in out
 **        **
 *          *
 ```
+
+## Problem 12
+Write a program to accept one integer, N. Then print the pattern as shown in output.
+```
+// Sample input - 7
+*******  // 7 '*'
+*____*   // 1st and 6th is '*' and 4 '_' in middle
+*___*
+*__*
+*_*
+**
+*
+```
