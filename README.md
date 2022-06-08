@@ -185,8 +185,19 @@ level- Basic
 Write a program to accept one integer type Array of length N. Then print the max (maximum) number in that array.
 ```
 // Sample input - [-3,-4,8,0,10]
-// Output - 10
+// Output -> 10
 
 // Sample input - [-5,-7,-9,-14, -3, -2]
-// Output - -2
+// Output -> -2
+```
+
+## Problem 14
+level- Basic
+Write a program to accept one integer type Array of length N. Then print the first_max (largest number) and second_max (second largest) number in that array.
+```
+// Sample input - [-3,-4,8,0,10]
+// Output -> 10 8
+
+// Sample input - [-5,-7,-9,-14, -3, -2]
+// Output -> -2 -3
 ```
