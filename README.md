@@ -10,6 +10,7 @@ This repo is dedicated to most asked problems in coding interviews for freshers.
 
 
 ## Problem 1
+level- Basic
 Write a program to accept one integer. Then print every digit of that integer in a newline and start from one's place.
 ```
 // Sample input - 12345
@@ -23,6 +24,7 @@ Write a program to accept one integer. Then print every digit of that integer in
 ```
 
 ## Problem 2
+level- Basic
 Write a program to accept one integer. Then reverse that integer by using while loop. Do it without using String functions (String length or any other).
 ```
 // Sample input - 12345
@@ -30,6 +32,7 @@ Write a program to accept one integer. Then reverse that integer by using while 
 ```
 
 ## Problem 3
+level- Basic
 Write a program to accept one integer. Then check if that integer is a palindrome or not. Don't use String methods.
 ```
 // Sample input - 1334
@@ -40,6 +43,7 @@ Write a program to accept one integer. Then check if that integer is a palindrom
 ```
 
 ## Problem 4
+level- Basic
 Write a program to accept one integer. Then print first and last digits of the number.
 ```
 // Sample input - 1334
@@ -50,6 +54,7 @@ Write a program to accept one integer. Then print first and last digits of the n
 ```
 
 ## Problem 5
+level- Intermediate
 Write a program to accept one integer, N. Then print "YES" if N is prime and print "NO" if N is not a prime number.
 ```
 // Sample input - 21
@@ -60,6 +65,7 @@ Write a program to accept one integer, N. Then print "YES" if N is prime and pri
 ```
 
 ## Problem 6
+level- Basic
 Write a program to accept one integer, N. Then print a square matrix of N *s.
 ```
 // Sample input - 3
@@ -78,6 +84,7 @@ Write a program to accept one integer, N. Then print a square matrix of N *s.
 ```
 
 ## Problem 7
+level- Basic
 Write a program to accept one integer, N. Then print a Triangle as shown in output.
 ```
 // Sample input - 3
@@ -96,6 +103,7 @@ Write a program to accept one integer, N. Then print a Triangle as shown in outp
 ```
 
 ## Problem 8
+level- Basic
 Write a program to accept one integer, N. Then print a Triangle as shown in output.
 ```
 // Sample input - 3
@@ -114,6 +122,7 @@ Write a program to accept one integer, N. Then print a Triangle as shown in outp
 ```
 
 ## Problem 9
+level- Intermediate
 Write a program to accept one integer, N. Then print the pattern as shown in output.
 ```
 // Sample input - 3
@@ -132,6 +141,7 @@ Write a program to accept one integer, N. Then print the pattern as shown in out
 ```
 
 ## Problem 10
+level- Intermediate
 Write a program to accept one integer, N. Then print the pattern as shown in output.
 ```
 // Sample input - 5
@@ -144,6 +154,7 @@ Write a program to accept one integer, N. Then print the pattern as shown in out
 ```
 
 ## Problem 11
+level- Intermediate
 Write a program to accept one integer, N. Then print the pattern as shown in output.
 ```
 // Sample input - 6
@@ -156,6 +167,7 @@ Write a program to accept one integer, N. Then print the pattern as shown in out
 ```
 
 ## Problem 12
+level- Intermediate
 Write a program to accept one integer, N. Then print the pattern as shown in output.
 ```
 // Sample input - 7
@@ -166,4 +178,15 @@ Write a program to accept one integer, N. Then print the pattern as shown in out
 *_*
 **
 *
+```
+
+## Problem 13
+level- Basic
+Write a program to accept one integer type Array of length N. Then print the max (maximum) number in that array.
+```
+// Sample input - [-3,-4,8,0,10]
+// Output - 10
+
+// Sample input - [-5,-7,-9,-14, -3, -2]
+// Output - -2
 ```
