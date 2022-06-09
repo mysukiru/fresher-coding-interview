@@ -201,3 +201,14 @@ Write a program to accept one integer type Array of length N. Then print the fir
 // Sample input - [-5,-7,-9,-14, -3, -2]
 // Output -> -2 -3
 ```
+
+## Problem 15
+#### level- Intermediate
+Write a program to accept one integer type Array of length N. Print max and min from that Array.
+```
+// Sample input - [-3,-4,8,0,10]
+// Output -> 10 -4
+
+// Sample input - [-5,-7,-9,-14, -3, -2]
+// Output -> -2 -14
+```
