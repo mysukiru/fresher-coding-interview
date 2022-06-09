@@ -212,3 +212,14 @@ Write a program to accept one integer type Array of length N. Print max and min 
 // Sample input - [-5,-7,-9,-14, -3, -2]
 // Output -> -2 -14
 ```
+
+## Problem 16
+#### level- Basic
+Write a program to accept one integer type Array of length N. Then print the sum of array.
+```
+// Sample input - [-3,-4,8,0,10]
+// Output -> 11
+
+// Sample input - [-5,-7,-9,-14, 3, 10]
+// Output -> -22
+```
