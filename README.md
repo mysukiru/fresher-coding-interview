@@ -223,3 +223,14 @@ Write a program to accept one integer type Array of length N. Then print the sum
 // Sample input - [-5,-7,-9,-14, 3, 10]
 // Output -> -22
 ```
+
+## Problem 17
+#### level- Basic
+Write a program to check if an integer array is in increasing order. Return true if yes, else return false.
+```
+// Sample input - [-3,-4,0,8,10]
+// Output -> false
+
+// Sample input - [-7, -4, 0, 1, 5]
+// Output -> true
+```
