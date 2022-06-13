@@ -234,3 +234,4 @@ Write a program to check if an integer array is in increasing order. Return true
 // Sample input - [-7, -4, 0, 1, 5]
 // Output -> true
 ```
+## Problem 18
