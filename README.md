@@ -255,3 +255,14 @@ An Array is having N elements and every element is repeated twice instead of 1 e
 // Sample input - [2,3,2,3,4,5,5,6,6]
 // Output -> 4
 ```
+
+## Problem 20
+#### level- Basic
+An integer array of length N. Return true if Array is sorted in ascending order, return false otherwise.
+```
+// Sample input - [2,2,3,5,7,10,14]
+// Output -> true
+
+// Sample input - [2,3,10,8,11]
+// Output -> false
+```
