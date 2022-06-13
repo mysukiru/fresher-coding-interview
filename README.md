@@ -247,3 +247,11 @@ Write a program to check the frequency of each number in an Integer Array.
 // 8 - 1
 // 15 - 1
 ```
+
+## Problem 19
+#### level- Basic
+An Array is having N elements and every element is repeated twice instead of 1 element. Write a function to find and return that unique element.
+```
+// Sample input - [2,3,2,3,4,5,5,6,6]
+// Output -> 4
+```
