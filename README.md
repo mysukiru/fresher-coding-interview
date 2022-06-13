@@ -234,4 +234,24 @@ Write a program to check if an integer array is in increasing order. Return true
 // Sample input - [-7, -4, 0, 1, 5]
 // Output -> true
 ```
+
 ## Problem 18
+#### level- Intermediate
+Write a program to check the frequency of each number in an Integer Array.
+```
+// Sample input - [2, 1, 2, 3, 8, 1, 15]
+// Output 
+// 2 - 2
+// 1 - 2
+// 3 - 1
+// 8 - 1
+// 15 - 1
+```
+
+## Problem 19
+#### level- Basic
+An Array is having N elements and every element is repeated twice instead of 1 element. Write a function to find and return that unique element.
+```
+// Sample input - [2,3,2,3,4,5,5,6,6]
+// Output -> 4
+```
