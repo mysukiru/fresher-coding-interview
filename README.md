@@ -274,3 +274,13 @@ Write a program to print the reverse array of a given number array.
 // Sample input - [2,4,1,5]
 // Output -> [5,1,4,2]
 ```
+
+## Problem 22
+#### level- Basic
+Given one integer array A. Find the number of all the pairs (i,j) where i+j=N.
+```
+// (i,j) & (j,i) are same pair.
+// Sample input - A=[2,3,4,5,6] N=9
+// Output -> 2
+// explanation -- 3+6 = 9 & 4+5 = 9
+```
