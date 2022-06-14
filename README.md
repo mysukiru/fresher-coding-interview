@@ -266,3 +266,11 @@ An integer array of length N. Return true if Array is sorted in ascending order,
 // Sample input - [2,3,10,8,11]
 // Output -> false
 ```
+
+## Problem 21
+#### level- Basic
+Write a program to print the reverse array of a given number array.
+```
+// Sample input - [2,4,1,5]
+// Output -> [5,1,4,2]
+```
