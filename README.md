@@ -284,3 +284,11 @@ Given one integer array A. Find the number of all the pairs (i,j) where i+j=N.
 // Output -> 2
 // explanation -- 3+6 = 9 & 4+5 = 9
 ```
+
+## Problem 23
+#### level- Basic
+How can you get the number of rows and number of columns in a given matrix?
+```
+// You have a matrix (M x N)
+// Please write a program to print M & N.
+```
