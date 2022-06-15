@@ -287,8 +287,8 @@ Given one integer array A. Find the number of all the pairs (i,j) where i+j=N.
 
 ## Problem 23
 #### level- Basic
-How can you get the number of rows and number of columns in a given matrix?
+How can you get the number of rows and number of columns in a given 2D Array?
 ```
-// You have a matrix (M x N)
+// You have a 2D Array (M x N)
 // Please write a program to print M & N.
 ```
