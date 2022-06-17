@@ -292,3 +292,11 @@ How can you get the number of rows and number of columns in a given 2D Array?
 // You have a 2D Array (M x N)
 // Please write a program to print M & N.
 ```
+
+## Problem 24
+#### level- Basic
+An integer 2D array is given. Write a program to return row rum in a 1D array.
+```
+// 2Array : {{2,3,4},{1,2,3}}
+// Output -> {2+3+4, 1+2+3} => {9,6}
+```
