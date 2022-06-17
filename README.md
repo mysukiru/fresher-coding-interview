@@ -300,3 +300,12 @@ An integer 2D array is given. Write a program to return row rum in a 1D array.
 // 2Array : {{2,3,4},{1,2,3}}
 // Output -> {2+3+4, 1+2+3} => {9,6}
 ```
+
+## Problem 25
+#### level- Basic
+Write a program to accept an integer N. Then accept an integer array A of length N. Then print the reverese of the array A without changing the original array.
+```
+// Input : 3
+// Input : 4 -10 18
+// Output : 18 -10 4
+```
