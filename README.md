@@ -327,3 +327,24 @@ A square matrix in which all the elements of the principal diagonal are ones and
 
 Your program should return a boolean value.
 ```
+
+## Problem 28
+#### level- Basic
+Given a string, return the total number of upper case characters in the string.
+```
+//Input : SaRvoTTam
+//Output : 4
+```
+
+## Problem 29
+#### level- Basic
+Given a string, return all upper case characters in the string. Print them one by one in newline.
+```
+//Input : SaRvoTTam
+//Output :
+S
+R
+T
+T
+```
+
