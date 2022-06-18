@@ -297,7 +297,7 @@ How can you get the number of rows and number of columns in a given 2D Array?
 #### level- Basic
 An integer 2D array is given. Write a program to return row sum in a 1D array.
 ```
-// 2Array : {{2,3,4},{1,2,3}}
+// 2D Array : {{2,3,4},{1,2,3}}
 // Output -> {2+3+4, 1+2+3} => {9,6}
 ```
 
@@ -314,6 +314,16 @@ Write a program to accept an integer N. Then accept an integer array A of length
 #### level- Basic
 Given a 2D Array. Write a program to print the column sum.
 ```
-// // 2Array : {{2,3,4},{1,2,3}}
+// 2D Array : {{2,3,4},{1,2,3}}
 // Output -> {2+1, 3+2, 4+3} => {3,5,7}
+```
+
+## Problem 27
+#### level- Basic
+Given a 2D Array. Write a program to check whether it is an identity matrix.
+```
+Definition of Identity Matrix:
+A square matrix in which all the elements of the principal diagonal are ones and all other elements are zeros.
+
+Your program should return a boolean value.
 ```
