@@ -348,3 +348,16 @@ T
 T
 ```
 
+
+## Problem 30
+#### level- Basic
+Write a program to accept a String S as input and then print every character in a newline.
+```
+//Input :  S = "INDIA"
+//Output :
+I
+N
+D
+I
+A
+```
