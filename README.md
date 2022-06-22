@@ -369,3 +369,18 @@ Write a program to accept a base 2 number (binary) as an input and return a base
 ## Problem 32
 #### level- Basic
 Write a program to accept a base 10 number (decimal) as an input and return a base 2 number (binary) equivalent to it.
+
+
+## Problem 33
+#### level- Intermediate
+Given an string A and an integer B. Integer B is equal to some char ASCII value. Return an integer array that is having all the indexes where the B's ASCII value character mathes.
+
+```
+//Input : A = "aabbcc"
+//Input : B = 98 // ASCII value of 'b'
+Output: [2,3]
+
+//Input : A = "abc"
+//Input : B = 100  // ASCII value of 'd'
+Output: []
+```
