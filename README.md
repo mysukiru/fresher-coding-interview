@@ -361,3 +361,11 @@ D
 I
 A
 ```
+
+## Problem 31
+#### level- Basic
+Write a program to accept a base 2 number (binary) as an input and return a base 10 number (decimal) equivalent to it.
+
+## Problem 32
+#### level- Basic
+Write a program to accept a base 10 number (decimal) as an input and return a base 2 number (binary) equivalent to it.
