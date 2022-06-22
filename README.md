@@ -384,3 +384,16 @@ Output: [2,3]
 //Input : B = 100  // ASCII value of 'd'
 Output: []
 ```
+
+## Problem 34
+#### level- Intermediate
+Tap A and Tap B, both are running in a tank. Tap A starts at A1 and stops at A2 minutes. Tap B starts at B1 and stops at B2.
+Write a program to return the the time duration for which Tap A and Tap B were running simultaneously.
+
+```
+//Input: A1 = 2, A2 = 5, B1 = 3, B2 = 7
+//Accept above value from terminal.
+//Output: 2
+
+//Explanation: Tap A started at 2 minutes and Tap B started at 3 minutes. Both were running till minute 5 so simultaneously running for 2 minutes.
+```
