@@ -397,3 +397,22 @@ Write a program to return the the time duration for which Tap A and Tap B were r
 
 //Explanation: Tap A started at 2 minutes and Tap B started at 3 minutes. Both were running till minute 5 so simultaneously running for 2 minutes.
 ```
+
+## Problem 35
+#### level- Intermediate
+You are given a String containing 'a' & 'b', all small case. The string formation is such that a series of 'b' s is following a series of 'a' s. We are calling this string a circular string.
+Write a program to find if input String is circular or not.
+
+```
+//Input: aaaaab
+//Output: true
+
+//Input: aaaaa
+//Output: false
+
+//Input: bbbba
+//Output: false
+
+//Input: abababaa
+//Output: false
+```
